@@ -1,0 +1,2 @@
+# mean
+Simple mean setup
